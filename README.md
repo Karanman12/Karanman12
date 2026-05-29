@@ -22,13 +22,13 @@ I'm actively looking for roles in **Software Development**, **Full Stack Enginee
 
 ## 🚀 Featured projects
 
-**🏥 ClinicTrack** — Patient management system for small clinics. FastAPI · SQLAlchemy · Tailwind CSS
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [ClinicTrack](https://github.com/Karanman12/ClinicTrack) | Patient management system for small clinics | FastAPI · SQLAlchemy · Tailwind CSS |
+| [WorkspaceBays](https://github.com/Karanman12/google-workspace-reseller) | Google Workspace & Zoho reseller site with Firebase lead gen | React · TypeScript · Tailwind · Firebase |
+| [Friday AI Assistant](https://github.com/Karanman12/Friday-AI-Assistant) | Voice-controlled AI assistant with GPT-3.5 | Python · OpenAI · Flask |
+| [MedPredict](https://github.com/Karanman12/MedPredict) | Diabetes risk prediction web app | Flask · Scikit-learn · Pandas |
 
-**🤖 Friday AI Assistant** — Voice-controlled AI assistant with GPT-3.5. Python · OpenAI · Flask
-
-**📊 MedPredict** — Diabetes risk prediction web app. Flask · Scikit-learn · Pandas
-
-**💰 Personal Finance Dashboard** — Expense tracker with visual insights. Flask · MySQL · Matplotlib
 
 ## 📌 Currently
 
