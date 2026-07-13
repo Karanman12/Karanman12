@@ -25,7 +25,7 @@ I'm actively looking for roles in **Software Development**, **Full Stack Enginee
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [ClinicTrack Pro](https://github.com/Karanman12/ClinicTrack) | Full-stack clinic management system with patient records, visit tracking, prescriptions, dashboards, and clinic workflows | FastAPI · React · TypeScript · Tailwind CSS |
-| [WorkspaceBays](https://github.com/Karanman12/google-workspace-reseller) | Google Workspace & Zoho reseller site with Firebase lead gen | React · TypeScript · Tailwind · Firebase |
+| [WorkspaceBays](https://github.com/Karanman12/google-workspace-reseller) | Google Workspace & Microsoft 365 solutions with email migration, website design, SSL, hacked website recovery, and ecommerce development | React · TypeScript · Tailwind CSS · Firebase |
 | [Friday AI Assistant](https://github.com/Karanman12/Friday-AI-Assistant) | Voice-controlled AI assistant with GPT-3.5 | Python · OpenAI · Flask |
 | [MedPredict](https://github.com/Karanman12/MedPredict) | Diabetes risk prediction web app | Flask · Scikit-learn · Pandas |
 
